@@ -1,0 +1,7 @@
+# [START runtime]
+runtime: nodejs14
+service: api
+env_variables:
+  DB_USER: "admin"
+  DB_PASS: "MeNCjzlNerblEC3B"
+  DB_NAME: "toDoList"
